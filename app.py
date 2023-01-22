@@ -226,3 +226,5 @@ if (selection == 'Parkinsons disease Prediction'):
             parknison_diagnosis = 'Free From Parkinsons Disease'
 
     st.success(parkinson_diagnosis)
+
+st.caption('Made by Vedant Kadam with 🐍 and Streamlit')
